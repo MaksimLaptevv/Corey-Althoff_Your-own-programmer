@@ -1,4 +1,4 @@
-def func(str):               # accepts and returns a string
-    return str
-str=input('enter str: ')
-print(func(str))
+def func(str):               # accepts and print a string
+    print(str)
+str=input()
+func(str)
