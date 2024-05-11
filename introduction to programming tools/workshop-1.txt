@@ -1,3 +1,0 @@
-Задание - выведите в bash Self-taught
-$echo Self-taught
->>Self-taught
