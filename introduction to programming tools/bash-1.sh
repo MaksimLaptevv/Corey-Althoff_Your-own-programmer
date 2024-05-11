@@ -1,1 +1,1 @@
-$echo Self-taught
+echo Self-taught
