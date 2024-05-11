@@ -1,2 +1,2 @@
-$cd /home/maksim/directiry
-$cd directory
+cd /home/maksim/directiry
+cd directory
